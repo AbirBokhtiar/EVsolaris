@@ -42,7 +42,7 @@ $profile_completion = empty($address) ? 80 : 100;
             <li><a href="../view/profile.php">My Profile</a></li>           
             <li><a href="../view/change_password.php">Change Password</a></li>
             <li><a href="../view/find_station.php">Find Station</a></li>
-            <li><a href="view_transactions.php">Account Transaction</a></li>
+<!--             <li><a href="view_transactions.php">Account Transaction</a></li> -->
             <li><a href="../controller/logout.php">Logout</a></li>
             <li><a href="../view/delete_account.php">Setting</a></li>
            
