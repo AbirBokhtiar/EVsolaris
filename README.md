@@ -1,5 +1,5 @@
 <table align="center" border="1" celspacing="0">
-  <tr>Contributors</tr>
+  <th>Contributors</th>
   <tr>
     <th>Name</th>
     <th>ID</th>
