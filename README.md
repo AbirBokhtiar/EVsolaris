@@ -13,20 +13,20 @@
   </tr>
    <tr>
     <td>RIAD AL HASAN</td>
-    <td>Bsc CSE</td>
     <td>22-46732-1</td>
+    <td>CSE</td>
     <td><a href="https://github.com/iltRIAD">RIAD_AL_HASAN</a></td>
   </tr>
   <tr>
     <td>MD ABDULLAH AL NOMAN</td>
-    <td>Bsc CSE</td>
     <td>22-47509-2</td>
+    <td>CSE</td>
     <td><a href="https://github.com/nomanmdabdullahal">MD_ABDULLAH_AL_NOMAN</a></td>
   </tr>
   <tr>
     <td>Urmi Karmakar</td>
-    <td>Bsc CSE</td>
     <td>22-47163-1</td>
+    <td>CSE</td>
     <td><a href="https://github.com/UrmiKarmakar">Urmi_Karmakar</a></td>
   </tr>
 </table>
