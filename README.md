@@ -7,7 +7,7 @@
     <h3><u>Project description:</u></h3>
     <p>A web application that allows users to find, book, and monitor solar-powered vehicle charging stations in real-time. Users can view the availability of charging stations, reserve     a spot, and track their charging sessions.</p>
 </div>
-
+<br>
 <table align="center" border="1" celspacing="0">
   <th colspan="4" align="center">Contributors</th>
   <tr>
