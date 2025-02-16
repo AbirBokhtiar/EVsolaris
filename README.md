@@ -4,7 +4,7 @@
     <p>The Bright Way to Charge Your EV!</p>
 </div>
 <div align="left">
-    <h3><p align="left">Project description: </p></h3>
+    <h3><u><p align="left">Project description: </p></u></h3>
     <p>A web application that allows users to find, book, and monitor solar-powered vehicle charging stations in real-time. Users can view the availability of charging stations, reserve     a spot, and track their charging sessions.</p>
 </div>
 
